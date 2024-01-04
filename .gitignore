@@ -1,0 +1,5 @@
+commands.txt
+*.code-workspace
+build/
+cmake-build-debug/
+.idea/
